@@ -30,7 +30,7 @@ various popular few-shot segmentation methods to new state-of-the-art performanc
 ![Visualization](qualitatives.png)
 
 ## Checkpoints
-Our trained model on PASCAL-5i: [OneDrive](https://1drv.ms/u/s!AlKD6m_5g-8SbpkEre1stxWyvM?e=MqBkYQ) <br />
+Our trained model on PASCAL-5i: [OneDrive](https://1drv.ms/f/c/12ef83f96fea8352/EnuNry_gnXpOlDSJ-PoqLQwBkRpmbGsu1NiJ71iR_wsR_g?e=mKHRmv) <br />
 
 ## Training
 ```
