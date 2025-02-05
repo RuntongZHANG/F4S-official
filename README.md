@@ -17,7 +17,7 @@ but also enhance meta-learning of the network during the training phase. Further
 Additionally, based on a Structural Causal Model (SCM), we further theoretically explain why the proposed method can solve the noise problem: the severe noise effects are removed by
 cutting off the backdoor path between pseudo labels and noisy support images via causal intervention. On PASCAL-5i and COCO-20i datasets, we show that the proposed F4S can boost 
 various popular few-shot segmentation methods to new state-of-the-art performances. <br />
-![Overview](figures/overview.png)
+![Overview](overview-journal-v1_00.png)
 
 ## Requirements
 * Python == 3.7.12
@@ -25,6 +25,9 @@ various popular few-shot segmentation methods to new state-of-the-art performanc
 * Cuda == 11.3
 * Torchvision == 0.11.2
 * GPU == NVIDIA Titan XP
+
+## Visualization
+![Visualization](qualitatives.png)
 
 ## Checkpoints
 Our trained model on PASCAL-5i: [OneDrive](https://1drv.ms/u/s!AlKD6m_5g-8SbpkEre1stxWyvM?e=MqBkYQ) <br />
