@@ -60,6 +60,4 @@ keywords = {Few-shot segmentation, Semi-supervised learning, Noisy images, Causa
 
 ## Acknowledgement
 Our implementation is mainly based on following repositories. Thanks for their authors.
-* [CLIP](https://github.com/openai/CLIP)
-* [ZegCLIP](https://github.com/ZiqinZhou66/ZegCLIP)
-* [Visual Prompt Tuning](https://github.com/KMnP/vpt)
+* [HSNet](https://github.com/juhongm999/hsnet)
