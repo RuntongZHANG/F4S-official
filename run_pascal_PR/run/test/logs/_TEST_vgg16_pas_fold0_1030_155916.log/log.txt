@@ -1,0 +1,20 @@
+
+:=========== Few-shot Seg. with HSNet ===========
+|             datapath: ../Datasets_HSN         
+|            benchmark: pascal_expansion        
+|              logpath: exp1                    
+|                  bsz: 1                       
+|              nworker: 0                       
+|                 load: checkpoints/pascal/vgg16_pas/vgg16_pas_fold0/best_model.pt
+|                 fold: 0                       
+|                nshot: 5                       
+|           nexpansion: 4                       
+|             backbone: vgg16                   
+|            visualize: False                   
+| use_original_imgsize: False                   
+:================================================
+
+Backbone # param.: 14714688
+Learnable # param.: 2570018
+Total # param.: 17284706
+# available GPUs: 1

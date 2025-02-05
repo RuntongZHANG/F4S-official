@@ -1,0 +1,17 @@
+
+:=========== Few-shot Seg. with HSNet ===========
+|             datapath: ../Datasets_HSN         
+|            benchmark: pascal                  
+|              logpath: exp1                    
+|                  bsz: 20                      
+|                   lr: 0.001                   
+|                niter: 2000                    
+|              nworker: 8                       
+|                 fold: 3                       
+|             backbone: resnet101               
+:================================================
+
+Backbone # param.: 42605608
+Learnable # param.: 2587394
+Total # param.: 45193002
+# available GPUs: 1
